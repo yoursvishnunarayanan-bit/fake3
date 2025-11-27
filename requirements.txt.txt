@@ -4,3 +4,4 @@ xgboost
 imbalanced-learn
 pandas
 numpy
+joblib
